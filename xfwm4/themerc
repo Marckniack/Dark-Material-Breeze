@@ -1,0 +1,22 @@
+# Breeze xfwm theme by Luis Armando Medina (@larmedina)
+#
+# email: lamedina@gmail.com
+# 
+# Based on the xfwn theme by Ramón Cahenzli and the KDE/Plasma's Breeze theme, 
+# the work of: Hugo Pereira Da Costa <hugo.pereira@free.fr> - Developer 
+#              Andrew Lake <jamboarder@gmail.com> - Designer
+# File structure based on Axiom xfwm theme by Rogier Koppejan.
+#
+# update: 2019-07-04
+#
+
+active_text_color=#dfdfdf
+button_offset=3
+button_spacing=4
+full_width_title=true
+inactive_text_color=#a0a0a0
+maximized_offset=2
+show_app_icon=false
+title_horizontal_offset=0
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
